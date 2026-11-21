@@ -88,3 +88,35 @@ The dashboard provides insights into revenue distribution, sales trends, transac
 ---
 
 
+## Project 03: Financial Performance Analysis — Tableau
+
+**Tools:** Tableau | Financial Analytics | Data Visualization
+
+### Project Overview
+
+Interactive financial dashboard analyzing sales, costs, profits, and business performance across products, segments, countries, and discount categories.
+
+### Dashboard Preview
+
+![Financial Performance Dashboard](tableau_financial_dashboard.png)
+
+### Key Results
+
+- Gross Sales: 127,931,599
+- Net Sales: 118,726,350
+- Cost of Sales: 101,832,648
+- Total Profit: 16,893,702
+
+### Analysis Features
+
+- Profit analysis by product and business segment
+- Financial performance by discount category
+- Sales and profit comparisons across countries
+- Interactive filtering by country, segment, product, and year
+
+### Project File
+
+[Download Tableau Workbook](Financial_Performance_Tableau.twbx)
+
+---
+  
