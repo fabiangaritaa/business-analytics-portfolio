@@ -42,3 +42,49 @@ Routing represents the largest share of recorded defects. The defect rate also i
 ---
 
 Additional projects in R, KNIME, and Tableau will be added as the portfolio develops.
+
+---
+
+## Project 02: Coffee Shop Sales Analysis
+
+**Tools:** Power BI | Power Query | Data Visualization
+
+### Project Overview
+
+An interactive sales dashboard developed in Power BI to analyze coffee shop performance across multiple store locations, product categories, and time periods.
+
+The dashboard provides insights into revenue distribution, sales trends, transaction volume, and product performance.
+
+### Dashboard Preview
+
+![Coffee Shop Sales Dashboard](dashboardcoffeshop.png)
+
+### Key Performance Indicators
+
+- **Total Sales:** $698.81K
+- **Units Sold:** 214K
+- **Transactions:** 149.12K
+- **Top Product Category:** Coffee
+- **Top Performing Location:** Hell's Kitchen
+
+### Key Insights
+
+- Coffee generated approximately $269.95K in sales, making it the leading product category.
+- Hell's Kitchen recorded the highest sales among the three locations.
+- Monthly revenue increased from approximately $82K in January to $166K in June.
+
+### Technical Skills Demonstrated
+
+- Interactive dashboard development in Power BI
+- Sales performance and KPI analysis
+- Data visualization and trend identification
+- Filtering by location, product category, and date
+- Comparative analysis of store performance
+
+### Project File
+
+[Download Power BI Dashboard](Coffee_Shop_Sales_Analysis.pbix)
+
+---
+
+
