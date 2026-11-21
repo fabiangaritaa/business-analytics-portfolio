@@ -119,4 +119,41 @@ Interactive financial dashboard analyzing sales, costs, profits, and business pe
 [Download Tableau Workbook](Financial_Performance_Tableau.twbx)
 
 ---
-  
+
+
+---
+
+## Project 04: University Data Integration & Cleaning — KNIME
+
+**Tools:** KNIME | ETL | Data Cleaning | Data Integration
+
+### Project Overview
+
+Academic data analytics project developed in KNIME to integrate, clean, transform, and analyze university enrollment data.
+
+The workflow demonstrates practical data preparation techniques and structured data processing to support academic reporting.
+
+### Technical Skills Demonstrated
+
+- Excel data import and integration
+- Duplicate detection and removal
+- Missing value handling
+- Data transformation using String Manipulation
+- Data integration using Joiner nodes
+- Aggregation and analysis using GroupBy
+- Business rules using Rule Engine
+- Statistical analysis and data visualization
+- Exporting processed results to Excel
+
+### Workflow Preview
+
+![KNIME University Workflow](knime_universidad_futuro.png)
+
+### Project File
+
+[Download KNIME Workflow](Universidad_Futuro_BAII.knwf)
+
+**Note:** The original academic workflow is provided for demonstration purposes. Source datasets are not included, and local file connections may require reconfiguration.
+
+---
+
