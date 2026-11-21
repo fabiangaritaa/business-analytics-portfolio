@@ -37,7 +37,7 @@ Routing represents the largest share of recorded defects. The defect rate also i
 - [Power BI Dashboard](Operational_Root_Cause_Analysis.pbix)
 - [Synthetic Dataset](synthetic_defects.csv)
 
-**Data Disclaimer:** This is a fictional demonstration using synthetic data. It does not contain Amazon operational records or confidential business information.
+**Data Disclaimer:** This is a fictional demonstration using synthetic data. It does not contain ORG operational records or confidential business information.
 
 ---
 
